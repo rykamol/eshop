@@ -80,7 +80,9 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": [],
+            "scripts": [
+              "node_modules/angular-revolution/src/angular-revolution.js"
+            ],
             "assets": [
               "src/favicon.ico",
               "src/assets"
