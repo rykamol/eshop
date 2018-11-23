@@ -23,7 +23,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "node_modules/font-awesome/css/font-awesome.css",
+              "node_modules/simple-line-icons/css/simple-line-icons.css",
+              "node_modules/elegant-icons/style.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/bootstrap-select/dist/css/bootstrap-select.min.css",
+              "src/styles.css",
+              "src/assets/css/responsive.css"              
             ],
             "scripts": []
           },
