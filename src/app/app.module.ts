@@ -6,6 +6,8 @@ import { HeaderTopComponent } from './header-top/header-top.component';
 import { FooterComponent } from './footer/footer.component';
 import { SidebarAreaComponent } from './sidebar-area/sidebar-area.component';
 import { WorldServiceComponent } from './world-service/world-service.component';
+import { ProductCategoryComponent } from './product-category/product-category.component';
+import { ProductListComponent } from './product-list/product-list.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +15,9 @@ import { WorldServiceComponent } from './world-service/world-service.component';
     HeaderTopComponent,
     FooterComponent,
     SidebarAreaComponent,
-    WorldServiceComponent
+    WorldServiceComponent,
+    ProductCategoryComponent,
+    ProductListComponent
   ],
   imports: [
     BrowserModule
